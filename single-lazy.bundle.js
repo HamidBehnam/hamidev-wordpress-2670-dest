@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{13:function(n,o,s){},9:function(n,o,s){"use strict";s.r(o);s(13);console.log("this is the lazy part of the single!")}}]);

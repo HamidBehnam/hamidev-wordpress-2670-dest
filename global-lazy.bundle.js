@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{10:function(o,i,n){},11:function(o,i){console.log("this is the global lazy util.")},7:function(o,i,n){"use strict";n.r(i);n(10),n(11);console.log("this is the lazy-loading part of the global script!")}}]);

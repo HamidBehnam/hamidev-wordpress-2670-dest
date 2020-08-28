@@ -1,0 +1,9 @@
+.footer-container {
+  background-color: blue;
+  padding: 50px;
+}
+.header-container {
+  background-color: green;
+  padding: 50px;
+}
+body{font-size:20px}

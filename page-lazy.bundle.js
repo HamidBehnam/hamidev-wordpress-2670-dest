@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{12:function(o,n,s){},8:function(o,n,s){"use strict";s.r(n);s(12);console.log("this is the lazy part of the page script!")}}]);

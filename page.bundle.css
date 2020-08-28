@@ -1,0 +1,1 @@
+.page-content-container{color:#483d8b}.page-content-container .page-breadcrumb{list-style-type:none;display:flex;flex-direction:row-reverse;justify-content:flex-end}.page-content-container .page-breadcrumb li:not(:first-child):after{content:">";padding:0 20px}
