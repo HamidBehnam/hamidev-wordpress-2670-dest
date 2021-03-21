@@ -1,1 +1,0 @@
-# hamidev-wordpress-100-dest
